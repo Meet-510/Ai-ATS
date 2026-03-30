@@ -1,4 +1,4 @@
-<h3> align="center">AI Resume Analyzer </h3>  
+<h3 align="center">AI Resume Analyzer </h3>  
 <h4><a href="https://ai-resume-checker-build-with-puter.netlify.app/auth?next=/" target="_blank">Demo</a></h4>
 
   
